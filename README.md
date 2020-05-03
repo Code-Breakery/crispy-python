@@ -15,7 +15,7 @@
 ```bash
 git clone https://github.com/Code-Breakery/crispy-python.git
 ```
-## PIP Lib
+## Install required lib
 ```bash
 pip install -r requirements.txt
 ```
